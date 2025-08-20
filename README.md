@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é João Pedro, sou estudante e apaixonado por tecnologia e desenvolvimento de software</p>
+<p align="left">Meu nome é João Pedro, sou Técnico em Desenvolvimento de sistemas e graduando em  ADS, apaixonado por tecnologia e desenvolvimento de software</p>
 
 ###
 
